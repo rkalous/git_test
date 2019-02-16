@@ -1,0 +1,1 @@
+Toto je Radovanův první git projekt!
